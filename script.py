@@ -3,13 +3,19 @@ class script(object):
 
     START_MSG = """ <b>Hi {}
 
-You can call this as an Auto Filter Bot if you like :D
+I'm Dracarys of @MovieVilla666, And Just Don't Command Me.
 
-This is Version 2 of Auto Filter Bot
+I'll Accept Commands Only From @Mikhael324.
 
-Bot gives button link to files in connected channels on query !
+Contact Him For Any Queries Or Promotion.
 
-No need to add filters for your files or movies from now on!
+
+
+
+
+
+
+
 
 For more click <i>help</i></b>"""
 
@@ -53,12 +59,12 @@ No need add each filter again!
 Bot will automatically search for your files and give links to that!
 
 
-<b>© @TroJanzHEX</b>"""
+<b>© @MovieVilla666 </b>"""
 
 
-    ABOUT_MSG = """⭕️<b>My Name : Auto Filter Bot V2</b>
+    ABOUT_MSG = """⭕️<b>My Name : Dracarys V2</b>
     
-⭕️<b>Creater :</b> @TroJanzHEX
+⭕️<b>Creater :</b> @Mikhael324
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
